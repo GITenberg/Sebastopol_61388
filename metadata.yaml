@@ -1,0 +1,41 @@
+_repo: Sebastopol_61388
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Millet, Francis Davis
+    alias: Millet, Frank D.
+    birthdate: 1846
+    deathdate: 1912
+    gutenberg_agent_id: '5851'
+    url: http://www.gutenberg.org/2009/agents/5851
+    wikipedia: https://en.wikipedia.org/wiki/Francis_Davis_Millet
+creator:
+  author:
+    agent_name: Tolstoy, Leo, graf
+    aliases:
+    - Tolstoy, Graf Leo
+    - Tolstoï, Léon
+    - Tolstoy, Lev N.
+    - Tolstoi, Leo
+    - Толстой, Лев Николаевич
+    birthdate: 1828
+    deathdate: 1910
+    gutenberg_agent_id: '136'
+    url: http://www.gutenberg.org/2009/agents/136
+    wikipedia: https://en.wikipedia.org/wiki/Leo_Tolstoy
+description: Translation of Sevastopol'skie rasskazy.
+gutenberg_issued: '2020-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61388'
+  lccn: 08025985
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sevastopol (Ukraine) -- History -- Siege, 1854-1855 -- Fiction'
+- !lcc 'PG'
+- GITenberg
+title: Sebastopol
+url: http://www.gutenberg.org/ebooks/61388
