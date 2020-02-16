@@ -1,5 +1,5 @@
 _repo: Sebastopol_61388
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Millet, Francis Davis
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '5851'
     url: http://www.gutenberg.org/2009/agents/5851
     wikipedia: https://en.wikipedia.org/wiki/Francis_Davis_Millet
+covers:
+- cover_type: archival
+  image_path: 61388-h/images/cover.jpg
 creator:
   author:
     agent_name: Tolstoy, Leo, graf
@@ -24,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/136
     wikipedia: https://en.wikipedia.org/wiki/Leo_Tolstoy
 description: Translation of Sevastopol'skie rasskazy.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61388#Sebastopol
 gutenberg_issued: '2020-02-12'
 gutenberg_type: Text
 identifiers:
